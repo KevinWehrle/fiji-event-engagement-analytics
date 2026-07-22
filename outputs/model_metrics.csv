@@ -1,0 +1,4 @@
+metric,value
+MAE,0.7980769230769231
+Accuracy,0.33653846153846156
+Baseline MAE (most common rating),1.4711538461538463
