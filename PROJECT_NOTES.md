@@ -49,7 +49,26 @@ Checked several candidate variables as potential predictors of `rating`, using g
 
 **Output format:** long format (same shape as `df_long`) — chosen because it's directly usable for the modeling/insights work ahead, since a real synthetic survey-response "look" isn't needed, just usable rows for analysis.
 
-**Not yet done:** decide `n_people` (how many synthetic rows to generate — leaning toward a few hundred to ~1000, still TBD) and generate the full batch; sanity-check the full synthetic dataset's aggregate distributions against the real 43-person data (step 6 of the plan); split generator code out of `eda.ipynb` into `src/` (reusable functions) + a new `notebooks/synthetic_data_generation.ipynb`.
+**n_people = 300** (2,400 long-format rows). Chosen as roughly 3x actual chapter size (~100 members) — enough for stable aggregate stats and future modeling without implying more precision than 43 real responses can actually support. Documented as a deliberate, justifiable choice rather than an arbitrary round number.
+
+**Final verification (step 6, complete):** compared real vs. synthetic aggregates on 3 checks —
+1. Mean rating by class_year: ranking preserved in synthetic (Sophomore > Junior > Senior), values within ~0.1-0.2 of real
+2. Mean rating by reason_skip_event: ranking preserved (Conflicts highest, Not interested lowest), spread compressed as expected from blending/smoothing
+3. Overall 1-5 rating distribution shape: real and synthetic bar charts nearly identical (both climb steadily from ~3-5% at rating 1 to ~30% at rating 5)
+
+All three passed — generator is considered done and verified.
+
+## Project structure
+Everything currently lives in `notebooks/eda.ipynb` (cleaning → EDA/lever validation → synthetic data generator), organized internally with markdown section headers (collapsible) rather than split across files/notebooks. Decided against splitting generator code into `src/` for now — that adds import/path complexity without changing the actual analysis, and isn't worth the friction mid-project. Plan is to do a single reorganization pass (proper `src/` split, multiple notebooks per the cheatsheet's intended structure) at the very end, once the full project (through modeling + write-up) is done and its real shape is known — easier to organize well in hindsight than to guess upfront.
+
+`data/processed/` still used for saved outputs (`df_wide.csv`, `df_long.csv`, `synthetic_data.csv`) via `.to_csv()` — this part's worth keeping regardless of notebook structure, since it lets any later notebook (e.g. modeling) load results without re-running everything from scratch.
+
+## Next phase: predictive modeling / insights (not started)
+Goal per original scope: per-event-type attendance likelihood table to drive Fall event planning. Planned next steps:
+- New notebook, likely `notebooks/modeling.ipynb`
+- Decide model type (likely classification/ordinal regression on `rating`, features = class_year, reason_skip_event, event_type, possibly day prefs even though not validated as strong solo levers — worth revisiting with a model that can weigh multiple weak signals together, unlike the simple groupby checks used for the generator)
+- Train on `synthetic_data.csv` (or a combination of real + synthetic), evaluate
+- Produce final actionable output: per-event-type likelihood table for exec board, plus write-up covering methodology, validated/ruled-out levers, and the "why 300, why alpha=0.3, why weight=0.65" design choices
 
 ## Environment
 - Local venv (pandas, numpy, matplotlib, seaborn, scikit-learn, ipykernel), VS Code, git initialized and pushed to GitHub

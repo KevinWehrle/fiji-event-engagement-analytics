@@ -1,0 +1,2401 @@
+class_year,reason_skip_event,pref_friday,pref_saturday,pref_sunday,pref_weekday_afternoon,pref_weekday_evening,events_attended_ordinal,event_type,rating,is_synthetic
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,1,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,1,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,professional,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,postgames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,community_service,1,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,pregames,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,philanthropy,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,2,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,2,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,2,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,1,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,2,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,1,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,1,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,alumni,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,1,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,brotherhood,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,pregames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,pregames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,postgames,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,brotherhood,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,professional,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,community_service,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,1,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,1,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,1,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,1,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,pregames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,brotherhood,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,postgames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,philanthropy,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,community_service,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,alumni,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,community_service,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,alumni,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,1,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,alumni,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,1,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,pregames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,alumni,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,2,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,1,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,1,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,1,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,1,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,1,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,pregames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,1,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,pregames,2,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,philanthropy,1,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,community_service,5,True
+Rising Senior,Conflicts with class/work,1,1,0,0,0,0,alumni,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,community_service,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,alumni,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,pregames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,philanthropy,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,community_service,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,1,3,alumni,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,philanthropy,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,professional,1,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,community_service,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,alumni,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,2,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,1,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,1,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,2,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,2,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,1,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,pregames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,postgames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,community_service,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,1,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,1,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,1,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,pregames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,socials,1,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,community_service,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,3,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,2,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,1,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,1,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,1,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,pregames,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,community_service,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,1,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,pregames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,socials,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,brotherhood,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,2,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,socials,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,philanthropy,1,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,professional,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,1,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,5,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,1,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,2,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,pregames,4,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,postgames,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,socials,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,brotherhood,5,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,professional,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,community_service,3,True
+Rising Junior,Not interested in event type,0,1,0,1,1,3,alumni,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,1,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,1,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,pregames,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,postgames,2,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,socials,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,brotherhood,5,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,professional,4,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,community_service,3,True
+Rising Junior,Not interested in event type,1,1,1,0,0,2,alumni,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,pregames,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,postgames,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,socials,5,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,brotherhood,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,philanthropy,4,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,professional,3,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,community_service,2,True
+Rising Senior,Conflicts with class/work,0,1,1,0,0,1,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,postgames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,brotherhood,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,philanthropy,1,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,1,1,3,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,2,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,postgames,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,brotherhood,3,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,philanthropy,2,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,professional,5,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Sophomore,Not interested in event type,1,1,1,0,1,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,socials,5,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,brotherhood,3,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,professional,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,community_service,1,True
+Rising Junior,Not interested in event type,1,1,1,0,1,3,alumni,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,0,3,alumni,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,postgames,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,brotherhood,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,professional,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,0,1,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,postgames,3,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,socials,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,brotherhood,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,philanthropy,5,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,professional,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,community_service,4,True
+Rising Sophomore,Not interested in event type,1,1,0,1,1,2,alumni,2,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,pregames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,postgames,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,socials,5,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,philanthropy,3,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,professional,1,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,0,0,0,3,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,community_service,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,alumni,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,pregames,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,postgames,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Cost,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Cost,1,1,1,1,1,3,philanthropy,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,professional,3,True
+Rising Sophomore,Cost,1,1,1,1,1,3,community_service,2,True
+Rising Sophomore,Cost,1,1,1,1,1,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,2,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,pregames,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,professional,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Conflicts with class/work,1,1,0,0,1,3,alumni,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,postgames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,3,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,professional,1,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,0,0,3,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,1,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,postgames,2,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,philanthropy,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,professional,5,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Sophomore,Too tired/burnt out,1,1,1,0,1,3,alumni,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,postgames,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,1,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,pregames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,1,alumni,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,pregames,4,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,professional,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,community_service,5,True
+Rising Junior,Too tired/burnt out,1,1,1,0,1,2,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,pregames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,0,0,1,3,alumni,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,pregames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,postgames,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,socials,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,brotherhood,3,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,philanthropy,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,professional,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,community_service,4,True
+Rising Sophomore,Not interested in event type,1,1,0,0,1,2,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,2,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,socials,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,brotherhood,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,0,3,alumni,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,postgames,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,philanthropy,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,community_service,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,1,alumni,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,pregames,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,postgames,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,brotherhood,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,philanthropy,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,professional,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,community_service,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,alumni,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,4,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,pregames,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,postgames,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,socials,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,brotherhood,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,philanthropy,2,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,professional,5,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,community_service,3,True
+Rising Junior,Too tired/burnt out,1,1,0,0,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,pregames,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,postgames,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,socials,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,brotherhood,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,philanthropy,4,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,professional,5,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,community_service,3,True
+Rising Junior,Conflicts with class/work,0,0,1,1,0,3,alumni,5,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,pregames,1,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,postgames,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,socials,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,brotherhood,4,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,philanthropy,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,professional,3,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,community_service,2,True
+Rising Junior,Not interested in event type,1,1,0,0,1,3,alumni,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,pregames,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,postgames,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,socials,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,brotherhood,5,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,philanthropy,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,professional,4,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,community_service,1,True
+Rising Senior,Not interested in event type,1,1,1,0,0,0,alumni,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,pregames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,postgames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,socials,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,brotherhood,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,philanthropy,1,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,1,3,alumni,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,pregames,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,postgames,4,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,socials,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,brotherhood,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,philanthropy,5,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,professional,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,community_service,2,True
+Rising Junior,Conflicts with class/work,1,1,1,1,1,3,alumni,4,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,pregames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,postgames,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,socials,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,brotherhood,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,philanthropy,2,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,professional,5,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,community_service,3,True
+Rising Sophomore,Conflicts with class/work,1,1,1,0,1,2,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,pregames,2,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,postgames,3,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,socials,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,brotherhood,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,philanthropy,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,professional,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,community_service,4,True
+Rising Senior,Too tired/burnt out,1,1,0,0,1,0,alumni,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,pregames,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,postgames,4,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,socials,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,brotherhood,5,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,philanthropy,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,professional,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,community_service,3,True
+Rising Senior,Too tired/burnt out,1,1,1,0,0,2,alumni,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,pregames,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,postgames,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,socials,5,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,brotherhood,4,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,philanthropy,1,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,professional,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,community_service,3,True
+Rising Senior,Conflicts with class/work,1,1,1,0,0,3,alumni,3,True
